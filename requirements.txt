@@ -1,0 +1,6 @@
+python-telegram-bot
+pandas
+configparser
+openpyxl
+playwright
+aiohttp
